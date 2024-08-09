@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Abhigna0542
-- 👀 I’m interested in gamming,coding,reading
 - 🌱 I’m currently learning java
 - 📫 How to reach me : through my linkedin account
 
